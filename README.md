@@ -7,21 +7,21 @@ Leverages Retrieval-Augmented Generation (RAG) to answer user queries from PDF d
 
 This project enables you to create an AI assistant that:
 
-📄 Ingests multiple PDF documents
-🔍 Builds a vector index (FAISS) of document content
-🤖 Retrieves relevant chunks based on a user query
-💬 Generates contextual, grounded responses using an open-source LLM (Llama2)
-🌐 Provides a web interface via Streamlit
+1.Ingests multiple PDF documents
+2. Builds a vector index (FAISS) of document content
+3. Retrieves relevant chunks based on a user query
+4. Generates contextual, grounded responses using an open-source LLM (Llama2)
+5. Provides a web interface via Streamlit
 
 It’s perfect for local, privacy-focused knowledge assistants with no cloud dependency.
 
-⭐ Features
-🧠 Retrieval-Augmented Generation (RAG) pipeline
-📑 PDF indexing for semantic search
-🧰 Uses FAISS for efficient vector search
-👨‍💻 Local inference with Llama2-7B / 14B models
-💡 Simple Streamlit UI for query input and answer display
-🔒 No data leaves your machine — full privacy
+1.Features
+2. Retrieval-Augmented Generation (RAG) pipeline
+3. PDF indexing for semantic search
+4. Uses FAISS for efficient vector search
+5. Local inference with Llama2-7B / 14B models
+6. Simple Streamlit UI for query input and answer display
+7. No data leaves your machine — full privacy
 
 
 
