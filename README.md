@@ -15,7 +15,7 @@ This project enables you to create an AI assistant that:
 
 It’s perfect for local, privacy-focused knowledge assistants with no cloud dependency.
 
-1.Features
+1. Features
 2. Retrieval-Augmented Generation (RAG) pipeline
 3. PDF indexing for semantic search
 4. Uses FAISS for efficient vector search
