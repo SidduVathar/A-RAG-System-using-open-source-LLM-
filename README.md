@@ -25,7 +25,7 @@ It’s perfect for local, privacy-focused knowledge assistants with no cloud dep
 
 
 
-📝 How It Works
+📝 How It Works - 
 
 Document Processing
 PDF files are read and split into text chunks.
@@ -37,7 +37,8 @@ Similar chunks are retrieved from the FAISS index.
 Rerieved chunks + user query are passed to the LLM.
 LLM generates context-aware responses.
 
-Tips & Notes
+
+Tips & Notes - 
 
 ⚡ Performance depends on your hardware (GPU recommended).
 🛡 For large corpora, consider FAISS parameters tuning.
